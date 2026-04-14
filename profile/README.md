@@ -22,7 +22,6 @@ Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists
 | [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. Zero noise — just what matters before it's obvious. |
 | [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first, no extension required. |
 | [**Revela**](https://revela.club) | Trust-first private communities. Curation over feed. Deliberate membership over scale. |
-| [**Hydra**](https://github.com/hyperdrift-io/hydra) | Sovereign multi-agent DeFi intelligence mesh — built publicly across the [AI to Web3 series](https://hyperdrift.io/blog). |
 
 ---
 
@@ -30,9 +29,11 @@ Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists
 
 | Repo | What it does |
 |------|-------------|
-| [**peer-dependency-checker**](https://github.com/hyperdrift-io/peer-dependency-checker) | CLI tool to audit peer dependency conflicts across npm workspaces. |
-| [**agentframe**](https://github.com/hyperdrift-io/agentframe) | AGENTS.md authoring, af CLI, and agent DX tooling for AI-assisted development. |
-| [**hydra**](https://github.com/hyperdrift-io/hydra) | Multi-agent DeFi mesh — n8n, local SLMs, agentic RAG, SOAR. Built in public. |
+| [**typer-companion**](https://github.com/hyperdrift-io/typer-companion) | Wizard-first orchestration for Typer CLI scripts — step validation, remembered context, graceful recovery. |
+| [**hyper-post**](https://github.com/hyperdrift-io/hyper-post) | Publish to multiple social networks in one command. Built for builders who post where their users actually are. |
+| [**keep-alive**](https://github.com/hyperdrift-io/keep-alive) | Keeps your services awake so you can sleep. Simple, dependency-light, does one thing. |
+| [**whats-that-again**](https://github.com/hyperdrift-io/whats-that-again) | The app that helps you remember exactly what it was. |
+| [**peer-dependency-checker**](https://github.com/hyperdrift-io/peer-dependency-checker) | Audits peer dependency conflicts before you upgrade. Stop breaking builds. |
 
 ---
 
