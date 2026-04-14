@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hyperdrift
+![Hyperdrift](hyperdrift-banner.png)
 
-**A fleet of focused apps — each solving one problem clearly.**
-
-[hyperdrift.io](https://hyperdrift.io) · [Blog](https://hyperdrift.io/blog) · [Apps](https://hyperdrift.io/apps)
+[hyperdrift.io](https://hyperdrift.io) · [Manifesto](https://hyperdrift.io/blog/manifesto) · [Blog](https://hyperdrift.io/blog)
 
 </div>
 
 ---
 
-Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists to solve a specific problem for a specific person, and ships with analytics wired from day one.
+The tools that used to require a team, a budget, and a network — don't anymore. Hyperdrift is a product studio that builds in that gap: focused apps, shipped fast, reaching the people they were built for.
+
+Each one is a small act of refusal. To accept that access to great tools is a privilege. To accept that the friction is natural. To accept that the system, as currently arranged, is the best we can do.
 
 ---
 
@@ -19,8 +19,8 @@ Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists
 | App | What it does |
 |-----|-------------|
 | [**HyperCV**](https://hyper-cv.hyperdrift.io) | Tailors your CV to a specific role in 60 seconds. Turns generic experience into legible positioning. |
-| [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. Zero noise — just what matters before it's obvious. |
-| [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first, no extension required. |
+| [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. See what matters before it is obvious. |
+| [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first. No extension required. |
 | [**Revela**](https://revela.club) | Trust-first private communities. Curation over feed. Deliberate membership over scale. |
 
 ---
@@ -31,26 +31,16 @@ Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists
 |------|-------------|
 | [**typer-companion**](https://github.com/hyperdrift-io/typer-companion) | Wizard-first orchestration for Typer CLI scripts — step validation, remembered context, graceful recovery. |
 | [**hyper-post**](https://github.com/hyperdrift-io/hyper-post) | Publish to multiple social networks in one command. Built for builders who post where their users actually are. |
-| [**keep-alive**](https://github.com/hyperdrift-io/keep-alive) | Keeps your services awake so you can sleep. Simple, dependency-light, does one thing. |
+| [**keep-alive**](https://github.com/hyperdrift-io/keep-alive) | Keeps your services awake. Simple, dependency-light, does exactly one thing. |
 | [**whats-that-again**](https://github.com/hyperdrift-io/whats-that-again) | The app that helps you remember exactly what it was. |
-| [**peer-dependency-checker**](https://github.com/hyperdrift-io/peer-dependency-checker) | Audits peer dependency conflicts before you upgrade. Stop breaking builds. |
+| [**peer-dependency-checker**](https://github.com/hyperdrift-io/peer-dependency-checker) | Audits peer dependency conflicts before you upgrade. Ship with confidence. |
 
 ---
 
-## Philosophy
+## From the blog
 
-> An app hasn't achieved its mission until it meets its users.
-
-Ship fast. Wire analytics first. Read the signals. Kill what isn't growing. Double down on what is.
-
-Everything built here follows one rule: solve the problem clearly, or don't ship it.
-
-→ [Read the full philosophy](https://hyperdrift.io/blog)
+[`ai`](https://hyperdrift.io/blog/tag/ai) · [`web3`](https://hyperdrift.io/blog/tag/web3) · [`agents`](https://hyperdrift.io/blog/tag/agents) · [`defi`](https://hyperdrift.io/blog/tag/defi) · [`building-in-public`](https://hyperdrift.io/blog/tag/building-in-public) · [`developer-tools`](https://hyperdrift.io/blog/tag/developer-tools) · [`series-ai-to-web3`](https://hyperdrift.io/blog/tag/series-ai-to-web3)
 
 ---
 
-<div align="center">
-
-Built by [@yannvr](https://github.com/yannvr)
-
-</div>
+> *The apps are not the point. They are the salute.*
