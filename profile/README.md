@@ -1,20 +1,55 @@
-# Hyperdrift - Where Ideas Take Flight
+<div align="center">
 
-Welcome to **Hyperdrift**! We build tools and systems that push boundaries, optimize workflows, and redefine what's possible.
+# Hyperdrift
 
-<img src="hyperdrift-banner.png" align="center" />
+**A fleet of focused apps — each solving one problem clearly.**
 
-## What We Do
-- **Open-source first**: Our projects are built for the community, by the community.
-- **Minimalist design**: Less fluff, more function.
+[hyperdrift.io](https://hyperdrift.io) · [Blog](https://hyperdrift.io/blog) · [Apps](https://hyperdrift.io/apps)
 
-## Why Hyperdrift?
-- **Speed**: We move fast and ship faster.
-- **Clarity**: No jargon, just results.
+</div>
 
-## Explore More
-Visit [hyperdrift.io](https://hyperdrift.io) to dive deeper into our work. Our [blog](https://hyperdrift.io) features:
-- **Insights**: Latest trends, tutorials, and behind-the-scenes stories.
-- **Community**: Engage with like-minded developers and innovators. Right now, it's mostly me [yannvr](https://github.com/yannvr) so come on in :)
-- **Updates**: Stay ahead with announcements and project highlights.
-- Look out for the apps blog to find out more about [apps](https://hyperdrift.io/apps)
+---
+
+Hyperdrift is a solo-built product studio. No hype, no bloat — each app exists to solve a specific problem for a specific person, and ships with analytics wired from day one.
+
+---
+
+## Apps
+
+| App | What it does |
+|-----|-------------|
+| [**HyperCV**](https://hyper-cv.hyperdrift.io) | Tailors your CV to a specific role in 60 seconds. Turns generic experience into legible positioning. |
+| [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. Zero noise — just what matters before it's obvious. |
+| [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first, no extension required. |
+| [**Revela**](https://revela.club) | Trust-first private communities. Curation over feed. Deliberate membership over scale. |
+| [**Hydra**](https://github.com/hyperdrift-io/hydra) | Sovereign multi-agent DeFi intelligence mesh — built publicly across the [AI to Web3 series](https://hyperdrift.io/blog). |
+
+---
+
+## Open source
+
+| Repo | What it does |
+|------|-------------|
+| [**peer-dependency-checker**](https://github.com/hyperdrift-io/peer-dependency-checker) | CLI tool to audit peer dependency conflicts across npm workspaces. |
+| [**agentframe**](https://github.com/hyperdrift-io/agentframe) | AGENTS.md authoring, af CLI, and agent DX tooling for AI-assisted development. |
+| [**hydra**](https://github.com/hyperdrift-io/hydra) | Multi-agent DeFi mesh — n8n, local SLMs, agentic RAG, SOAR. Built in public. |
+
+---
+
+## Philosophy
+
+> An app hasn't achieved its mission until it meets its users.
+
+Ship fast. Wire analytics first. Read the signals. Kill what isn't growing. Double down on what is.
+
+Everything built here follows one rule: solve the problem clearly, or don't ship it.
+
+→ [Read the full philosophy](https://hyperdrift.io/blog)
+
+---
+
+<div align="center">
+
+Built by [@yannvr](https://github.com/yannvr)
+
+</div>
