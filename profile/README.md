@@ -18,7 +18,7 @@ Each one is a small act of refusal. To accept that access to great tools is a pr
 
 | App | What it does |
 |-----|-------------|
-| [**HyperCV**](https://hyper-cv.hyperdrift.io) | Tailors your CV to a specific role in 60 seconds. Turns generic experience into legible positioning. |
+| [**Next Role**](https://cv.hyperdrift.io) | Job-search companion: keep your master CV, tailor each application to the role, iterate with clear feedback until you are ready to send, and stay organised across applications. |
 | [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. See what matters before it is obvious. |
 | [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first. No extension required. |
 | [**Revela**](https://revela.club) | Trust-first private communities. Curation over feed. Deliberate membership over scale. |
