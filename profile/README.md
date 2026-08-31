@@ -2,7 +2,7 @@
 
 ![Hyperdrift](hyperdrift-banner.png)
 
-[hyperdrift.io](https://hyperdrift.io) · [Manifesto](https://hyperdrift.io/blog/manifesto) · [Blog](https://hyperdrift.io/blog)
+[hyperdrift.io](https://hyperdrift.io) · [Manifesto](https://hyperdrift.io/blog/manifesto) · [Blog](https://hyperdrift.io/blog) · [Work with us](https://ai.hyperdrift.io) · [Contact](https://hyperdrift.io/#contact)
 
 </div>
 
@@ -22,6 +22,18 @@ Each one is a small act of refusal. To accept that access to great tools is a pr
 | [**Intel**](https://intel.hyperdrift.io) | Daily signal brief across AI, crypto, and tech. See what matters before it is obvious. |
 | [**web3.capital**](https://web3.hyperdrift.io) | Ranks 8,000+ DeFi pools by capital efficiency score, not raw APY. Passkey-first. No extension required. |
 | [**Revela**](https://revela.club) | Trust-first private communities. Curation over feed. Deliberate membership over scale. |
+
+---
+
+## Work with us
+
+The same crew that runs this fleet builds production AI for other people's products — as [**Orchestra**](https://ai.hyperdrift.io), our agent-orchestration studio. Multi-tenant, audit-ready, model-neutral, built by founding engineers who ship their own apps first.
+
+We work with partners under contract — **Tecknuovo** and **Vodafone3** today, with **Databricks** as a sponsor. And if you have the product but not the budget, there's [**The Traction Partnership**](https://ai.hyperdrift.io/#partnership): we build the automation free and the partnership validates on traction alone. Numbers move, we share the upside; they don't, you owe nothing and keep the work.
+
+Recent proof: [Helm](https://github.com/hyperdrift-io/helm), our Google "All Things Agentic" entry — an agent crew at the wheel of this very fleet, with scoped authority per agent.
+
+**Start a conversation:** [hyperdrift.io/#contact](https://hyperdrift.io/#contact) · [ai.hyperdrift.io](https://ai.hyperdrift.io/#contact) · [yann@hyperdrift.io](mailto:yann@hyperdrift.io)
 
 ---
 
