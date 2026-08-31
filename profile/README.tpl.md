@@ -77,14 +77,7 @@ We work with partners under contract — **Tecknuovo** and **Vodafone3** today, 
 
 ## Fresh from the blog
 
-**[Our 60-Line Trade Secret](https://hyperdrift.io/blog/the-cdn-you-already-own)**  
-Sixty lines of nginx config took our worst page from 1.5 seconds to 89 milliseconds. The edge you're told to rent is the proxy you already run — and we're publishing the whole secret.
-
-**[Your Error Page Is a Prompt](https://hyperdrift.io/blog/your-error-page-is-a-prompt)**  
-We gave an agent crew the power to take a production service offline, then went looking for what could turn that power against us. The hole was not in the model. It was in the telemetry.
-
-**[The Fleet Watches Itself](https://hyperdrift.io/blog/the-fleet-watches-itself-posthog-signals)**  
-Analytics has always waited for you to ask. PostHog's new signals invert that — and we wired them into the daily command cycle that steers our fleet of apps.
+{{LATEST_POSTS}}
 
 More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https://hyperdrift.io/blog/tag/performance) · [`ai-observability`](https://hyperdrift.io/blog/tag/ai-observability) · [`web3`](https://hyperdrift.io/blog/tag/web3) · [`building-in-public`](https://hyperdrift.io/blog/tag/building-in-public)
 
@@ -92,4 +85,4 @@ More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https
 
 > *The apps are not the point. They are the salute.*
 
-<sub>This page regenerates weekly from the live fleet — last refreshed 31 Aug 2026.</sub>
+<sub>This page regenerates weekly from the live fleet — last refreshed {{UPDATED}}.</sub>

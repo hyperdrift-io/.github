@@ -1,0 +1,31 @@
+name: Refresh org profile
+run-name: Refresh org profile README
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # Mondays 07:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+      - name: Render README from the live fleet
+        run: python3 scripts/render_readme.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet profile/README.md; then
+            echo "profile already fresh"
+            exit 0
+          fi
+          git config user.name "hyperdrift-fleet"
+          git config user.email "yann@hyperdrift.io"
+          git add profile/README.md
+          git commit -m "chore(profile): weekly refresh from the live fleet"
+          git push
