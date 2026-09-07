@@ -77,14 +77,14 @@ We work with partners under contract — **Tecknuovo** and **Vodafone3** today, 
 
 ## Fresh from the blog
 
-**[Our 60-Line Trade Secret](https://hyperdrift.io/blog/the-cdn-you-already-own)**  
-Sixty lines of nginx config took our worst page from 1.5 seconds to 89 milliseconds. The edge you're told to rent is the proxy you already run — and we're publishing the whole secret.
+**[Open source doesn't have a generosity problem. It has a routing problem.](https://hyperdrift.io/blog/open-source-routing-problem-unanswered-asks)**  
+Right now 25,987 issues carry a help-wanted label from the person who runs the repo, and not one reply. The people who could answer exist. The ask never reached them.
 
 **[Your Error Page Is a Prompt](https://hyperdrift.io/blog/your-error-page-is-a-prompt)**  
 We gave an agent crew the power to take a production service offline, then went looking for what could turn that power against us. The hole was not in the model. It was in the telemetry.
 
-**[The Fleet Watches Itself](https://hyperdrift.io/blog/the-fleet-watches-itself-posthog-signals)**  
-Analytics has always waited for you to ask. PostHog's new signals invert that — and we wired them into the daily command cycle that steers our fleet of apps.
+**[The Agent Is the Session](https://hyperdrift.io/blog/the-agent-is-the-session)**  
+We keep building accounts so a website can remember who you are. Your agent already knows. WebMCP lets a page hand the agent its controls, and the site never has to hold your context at all.
 
 More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https://hyperdrift.io/blog/tag/performance) · [`ai-observability`](https://hyperdrift.io/blog/tag/ai-observability) · [`web3`](https://hyperdrift.io/blog/tag/web3) · [`building-in-public`](https://hyperdrift.io/blog/tag/building-in-public)
 
@@ -92,4 +92,4 @@ More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https
 
 > *The apps are not the point. They are the salute.*
 
-<sub>This page regenerates weekly from the live fleet — last refreshed 31 Aug 2026.</sub>
+<sub>This page regenerates weekly from the live fleet — last refreshed 7 Sep 2026.</sub>
