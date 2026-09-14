@@ -77,14 +77,14 @@ We work with partners under contract — **Tecknuovo** and **Vodafone3** today, 
 
 ## Fresh from the blog
 
+**[You have one evening. Who is waiting on you?](https://hyperdrift.io/blog/one-evening-who-is-waiting-on-you)**  
+Coming back to your projects should not start with six tabs and a guilt trip. Standup reads your public GitHub and answers three questions: what to start with, who is waiting, and how long it takes.
+
+**[Hyperdrift Turns One: From Hands on the Keyboard to a Crew at the Wheel](https://hyperdrift.io/blog/hyperdrift-turns-one)**  
+Twelve months ago Hyperdrift said its first public words. Since then the way the work gets done changed seven times — manual coding, skills, Databricks, orchestration, frontier models, judges — and it points somewhere. The whole year, charted and filmed, with a link to everything we shipped and every line of it that's open.
+
 **[Open source doesn't have a generosity problem. It has a routing problem.](https://hyperdrift.io/blog/open-source-routing-problem-unanswered-asks)**  
 Right now 25,987 issues carry a help-wanted label from the person who runs the repo, and not one reply. The people who could answer exist. The ask never reached them.
-
-**[Your Error Page Is a Prompt](https://hyperdrift.io/blog/your-error-page-is-a-prompt)**  
-We gave an agent crew the power to take a production service offline, then went looking for what could turn that power against us. The hole was not in the model. It was in the telemetry.
-
-**[The Agent Is the Session](https://hyperdrift.io/blog/the-agent-is-the-session)**  
-We keep building accounts so a website can remember who you are. Your agent already knows. WebMCP lets a page hand the agent its controls, and the site never has to hold your context at all.
 
 More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https://hyperdrift.io/blog/tag/performance) · [`ai-observability`](https://hyperdrift.io/blog/tag/ai-observability) · [`web3`](https://hyperdrift.io/blog/tag/web3) · [`building-in-public`](https://hyperdrift.io/blog/tag/building-in-public)
 
@@ -92,4 +92,4 @@ More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https
 
 > *The apps are not the point. They are the salute.*
 
-<sub>This page regenerates weekly from the live fleet — last refreshed 7 Sep 2026.</sub>
+<sub>This page regenerates weekly from the live fleet — last refreshed 14 Sep 2026.</sub>
