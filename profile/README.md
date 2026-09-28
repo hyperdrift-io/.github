@@ -92,4 +92,4 @@ More: [`agents`](https://hyperdrift.io/blog/tag/agents) · [`performance`](https
 
 > *The apps are not the point. They are the salute.*
 
-<sub>This page regenerates weekly from the live fleet — last refreshed 21 Sep 2026.</sub>
+<sub>This page regenerates weekly from the live fleet — last refreshed 28 Sep 2026.</sub>
